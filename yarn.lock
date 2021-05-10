@@ -6560,7 +6560,7 @@ gatsby-telemetry@^2.4.1:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-hypercore@^1.0.3:
+gatsby-theme-hypercore@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-hypercore/-/gatsby-theme-hypercore-1.0.4.tgz#c9fd559adb7c7a972462fc20ee8707e02d11c459"
   integrity sha512-oPiG2IThQapNYuAXCFPsPVh6RfwUCO28DYl4hu8Dz5BrcRerF3/C3O5DnAfc0lrd0j1c1F+duWFe9Z64Ppegqw==
